@@ -38,6 +38,9 @@ Extract the ZIP file.
 
 Open the extracted folder zapzyra-language.
 
-STEPS:
-1. Write your won code under examples and save it with .zz in the examples folder.
-2. go to GUI and naviage to your page and click on run
+STEPSto run in VS code
+1. Write your won code and save it with .zz 
+2. Go to GUI code and run
+3. click on browse and browse your .zz file and then click on run
+4. file will start running in VS code terminal (any inputs needs to be given in terminal only). 
+5. 

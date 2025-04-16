@@ -22,13 +22,22 @@
 
 ---
 
-## 🚀 How to Use ZapZyra (For Users)
 
+## 🚀 How to Use ZapZyra (For Users)
+##🐍  **Install Python**
+**ZapZyra runs on Python.****Installl it first**
 Here’s how anyone can run ZapZyra on their own system:
 
-### 🔁 1. Clone or Download the Repo
+### 🔁Manual ZIP Download
+Go to your GitHub repository:
+👉 https://github.com/mohdanas20077/zapzyra-language
 
-#### Option A: Using Git (recommended)
-```bash
-git clone https://github.com/mohdanas20077/zapzyra-language.git
-cd zapzyra-language
+Click the green Code button → then click Download ZIP.
+
+Extract the ZIP file.
+
+Open the extracted folder zapzyra-language.
+
+STEPS:
+1. Write your won code under examples and save it with .zz in the examples folder.
+2. go to GUI and naviage to your page and click on run

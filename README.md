@@ -20,3 +20,15 @@
 - Build real programs using a cleaner, more readable format
 - Extendable — you can add more syntax rules as you go
 
+---
+
+## 🚀 How to Use ZapZyra (For Users)
+
+Here’s how anyone can run ZapZyra on their own system:
+
+### 🔁 1. Clone or Download the Repo
+
+#### Option A: Using Git (recommended)
+```bash
+git clone https://github.com/mohdanas20077/zapzyra-language.git
+cd zapzyra-language
